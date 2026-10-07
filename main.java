@@ -11,7 +11,7 @@ class Main{
         listOfChessOpenings.add(new chessOpening("Queen's Gambit", "d4 d5 c4"));
         listOfChessOpenings.add(new chessOpening("Italian Game", "e4 e5 Nf3 Nc6 Bc4"));
         listOfChessOpenings.add(new chessOpening("French Defense", "e4 e6 d4 d5"));
-        listOfChessOpenings.add(new chessOpening("Caro-Kann Defense", " e4 c6 d4 d5"));
+        listOfChessOpenings.add(new chessOpening("Caro-Kann Defense", "e4 c6 d4 d5"));
         listOfChessOpenings.add(new chessOpening("English Opening", "c4"));
         listOfChessOpenings.add(new chessOpening("King's Indian Defense", "d4 Nf6 c4 g6"));
         listOfChessOpenings.add(new chessOpening("London System", "d4 d5 Bf4"));
